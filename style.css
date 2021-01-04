@@ -1,0 +1,16 @@
+.container {
+    width: 550px;
+    height: 550px;
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+    flex-wrap: wrap;
+  }
+  .container div {
+    width: 100px;
+    height: 100px;
+    background: green;
+    font-size: 50px;
+    margin-bottom: 40px;
+  }
+  
